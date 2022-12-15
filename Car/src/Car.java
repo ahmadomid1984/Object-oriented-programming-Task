@@ -24,9 +24,9 @@ public class Car {
 	public static void main(String[] args) {
 		
 		CarB car1 = new CarB();
-	    car1.brand = "Fiat";
-	    car1.model = "500";
-	    car1.amountOfFuel = 50;
+	    car1.brand = "Benz";
+	    car1.model = "450";
+	    car1.amountOfFuel = 40;
 	    car1.PrintData();
 	    car1.brake();
 	    car1.accelerate();

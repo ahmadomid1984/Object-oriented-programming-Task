@@ -25,6 +25,7 @@ public class Car {
 		
 	    Car car1 = new Car();
 	    Car car2 = new Car();
+	    Car car3 = new Car();
 
 	    car1.brand = "Benz";
 	    car1.model = "450";

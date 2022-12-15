@@ -23,7 +23,9 @@ public class Car {
 		
 	public static void main(String[] args) {
 		
-		CarB car1 = new CarB();
+	    Car car1 = new Car();
+	    Car car2 = new Car();
+
 	    car1.brand = "Benz";
 	    car1.model = "450";
 	    car1.amountOfFuel = 40;
